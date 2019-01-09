@@ -38,7 +38,7 @@ Just create a project, and you’re good to go.
 
 To create a new app, you may choose one of the following methods:
 
-### npx
+#### npx
 
 ```sh
 npx create-react-app my-app
